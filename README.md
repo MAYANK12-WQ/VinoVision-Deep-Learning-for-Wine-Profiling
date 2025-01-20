@@ -46,3 +46,16 @@ The dataset contains 12 variables that influence wine quality, including:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Wine-Quality-Prediction.git
    cd Wine-Quality-Prediction
+   
+---
+
+### **Updated `README.md`**
+
+Add this new section to the `README.md` under the **How to Contribute** section:
+
+```markdown
+## How to Contribute
+We welcome contributions to improve VinoVision! Whether it's fixing bugs, improving the documentation, or suggesting new features, you can help.
+
+Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute to this project.
+
